@@ -67,7 +67,8 @@ while maintaining crack fidelity.
 <br>
 
 <p align="center">
-  <img src="assets/spade_vs_stylespade.png" width="85%">
+  <img width="2000" height="754" alt="그림2" src="https://github.com/user-attachments/assets/3179940a-09bb-4f13-aa31-60473ca498d8" />
+
 </p>
 
 <br>
@@ -100,7 +101,8 @@ while still generating diverse textures through style injection.
 <br>
 
 <p align="center">
-  <img src="assets/stylespade_vs_semanticstylegan.png" width="85%">
+  <img width="1090" height="414" alt="그림3" src="https://github.com/user-attachments/assets/d0438b1c-f735-4638-a98d-f0da97e91fe6" />
+
 </p>
 
 <br>
