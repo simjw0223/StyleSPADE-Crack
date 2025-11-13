@@ -124,9 +124,3 @@ while still generating diverse textures through style injection.
 ---
 
 <br>
-
-## How to Use the Pretrained Weights
-
-```bash
-git clone https://github.com/simjw0223/StyleSPADE-Crack.git
-cd StyleSPADE-Crack
