@@ -6,7 +6,7 @@ It is used to augment training datasets for crack segmentation tasks.
 
 ---
 
-## 📌 What is StyleSPADE?
+##  What is StyleSPADE?
 
 StyleSPADE is an enhanced version of NVIDIA’s SPADE generator,  
 modified to include a *style encoder* that injects texture/style information  
