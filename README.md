@@ -1,4 +1,4 @@
-🧩 StyleSPADE-Crack: Pretrained Model for Crack Image Synthesis
+## 🧩 StyleSPADE-Crack: Pretrained Model for Crack Image Synthesis
 
 This repository provides the pretrained weights of **StyleSPADE**,  
 a customized SPADE-based generative model designed for **realistic crack image synthesis**.  
