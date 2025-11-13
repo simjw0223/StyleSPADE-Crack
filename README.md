@@ -27,5 +27,4 @@ Key Features
 | `latest_net_G.pth` | Pretrained Generator weights |
 | `latest_net_D.pth` | Pretrained Discriminator weights |
 | `loss_log.txt` | Training loss curve logs |
-| `opt.pkl` / `opt.txt` | Training configuration |
 
