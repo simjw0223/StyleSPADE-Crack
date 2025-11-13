@@ -61,7 +61,8 @@ into each SPADE normalization layer.
 <br>
 
 <p align="center">
-  <img width="1421" height="508" src="https://github.com/user-attachments/assets/dbc4e061-f2c8-4602-864d-04ae63f78351"/>
+  <img width="1421" height="529" alt="그림5" src="https://github.com/user-attachments/assets/b6b7f1ad-a039-4dac-919a-d23b8235c118" />
+
 </p>
 
 <br>
@@ -81,7 +82,8 @@ while maintaining crack fidelity.
 <br>
 
 <p align="center">
-  <img width="2000" height="754" alt="그림2" src="https://github.com/user-attachments/assets/3179940a-09bb-4f13-aa31-60473ca498d8" />
+ <img width="2000" height="754" alt="그림4" src="https://github.com/user-attachments/assets/82c2ebb8-15f8-4b1b-b525-dcc544321a4b" />
+
 
 </p>
 
@@ -115,7 +117,8 @@ while still generating diverse textures through style injection.
 <br>
 
 <p align="center">
-  <img width="1090" height="414" alt="그림3" src="https://github.com/user-attachments/assets/d0438b1c-f735-4638-a98d-f0da97e91fe6" />
+  <img width="1485" height="577" alt="그림6" src="https://github.com/user-attachments/assets/f59b0e7c-6955-416a-8394-f62fd38fe787" />
+
 
 </p>
 
