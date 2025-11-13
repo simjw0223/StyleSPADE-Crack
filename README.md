@@ -118,9 +118,3 @@ while still generating diverse textures through style injection.
   - Strong mask-based spatial modulation  
   - Preserves thin and complex crack structures  
   - Balanced realism + structure fidelity  
-
-<br>
-
----
-
-<br>
