@@ -3,13 +3,7 @@
 This repository provides the pretrained weights of **StyleSPADE**,  
 a customized SPADE-based generative model designed for **realistic crack image synthesis**.  
 It is used to augment training datasets for crack segmentation tasks.
-
-
-
-
-
-
-
+<br><br>
 ---
 
 ##  What is StyleSPADE?
@@ -23,15 +17,8 @@ Key Features
 - Preserves fine crack structures  
 - More realistic images than vanilla SPADE or SemanticStyleGAN  
 - Highly effective for training crack segmentation models
-
-
-
-
-
-
-
+<br><br>
 ---
-
 ## Files in This Release
 
 | File name | Description |
@@ -39,13 +26,7 @@ Key Features
 | `latest_net_G.pth` | Pretrained Generator weights |
 | `latest_net_D.pth` | Pretrained Discriminator weights |
 | `loss_log.txt` | Training loss curve logs |
-
-
-
-
-
-
-
+<br><br>
 ---
 ## StyleSPADE Generator Architecture
 
