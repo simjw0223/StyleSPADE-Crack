@@ -5,6 +5,11 @@ a customized SPADE-based generative model designed for **realistic crack image s
 It is used to augment training datasets for crack segmentation tasks.
 
 
+
+
+
+
+
 ---
 
 ##  What is StyleSPADE?
@@ -20,6 +25,11 @@ Key Features
 - Highly effective for training crack segmentation models
 
 
+
+
+
+
+
 ---
 
 ## Files in This Release
@@ -30,6 +40,13 @@ Key Features
 | `latest_net_D.pth` | Pretrained Discriminator weights |
 | `loss_log.txt` | Training loss curve logs |
 
+
+
+
+
+
+
+---
 ## StyleSPADE Generator Architecture
 
 <img width="1421" height="508" alt="그림1" src="https://github.com/user-attachments/assets/dbc4e061-f2c8-4602-864d-04ae63f78351" />
