@@ -10,7 +10,7 @@ It is used to augment training datasets for crack segmentation tasks.
 
 <div style="margin-top: 25px;"></div>
 
-## ⭐ What is StyleSPADE?
+## What is StyleSPADE?
 
 StyleSPADE is an enhanced version of NVIDIA’s SPADE generator,  
 modified to include a **style encoder** that injects texture/style information  
@@ -28,7 +28,7 @@ into each SPADE normalization layer.
 
 <div style="margin-top: 25px;"></div>
 
-## 📁 Files in This Release
+## Files in This Release
 
 | File name | Description |
 |----------|-------------|
@@ -42,7 +42,7 @@ into each SPADE normalization layer.
 
 <div style="margin-top: 25px;"></div>
 
-## 🏗️ StyleSPADE Generator Architecture
+## StyleSPADE Generator Architecture
 
 <div style="margin-top: 10px;"></div>
 
