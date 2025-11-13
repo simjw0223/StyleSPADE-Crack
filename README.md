@@ -10,6 +10,20 @@ It is used to augment training datasets for crack segmentation tasks.
 
 <br>
 
+## Download Pretrained Weights
+
+You can download the pretrained StyleSPADE weights here:
+
+- 👉 **[latest_net_G.pth (Generator)](https://github.com/simjw0223/StyleSPADE-Crack/releases/download/v1.0.0/latest_net_G.pth)**
+- 👉 **[latest_net_D.pth (Discriminator)](https://github.com/simjw0223/StyleSPADE-Crack/releases/download/v1.0.0/latest_net_D.pth)**
+- 👉 **[loss_log.txt (Training Logs)](https://github.com/simjw0223/StyleSPADE-Crack/releases/download/v1.0.0/loss_log.txt)**
+
+<br>
+
+---
+
+<br>
+
 ## What is StyleSPADE?
 
 StyleSPADE is an enhanced version of NVIDIA’s SPADE generator,  
