@@ -3,33 +3,49 @@
 This repository provides the pretrained weights of **StyleSPADE**,  
 a customized SPADE-based generative model designed for **realistic crack image synthesis**.  
 It is used to augment training datasets for crack segmentation tasks.
-<br><br>
+
+<div style="margin-top: 25px;"></div>
+
 ---
 
-##  What is StyleSPADE?
+<div style="margin-top: 25px;"></div>
+
+## ⭐ What is StyleSPADE?
 
 StyleSPADE is an enhanced version of NVIDIA’s SPADE generator,  
-modified to include a *style encoder* that injects texture/style information  
+modified to include a **style encoder** that injects texture/style information  
 into each SPADE normalization layer.
 
-Key Features
+### Key Features
 - Generates diverse pavement/wall/ground background textures  
 - Preserves fine crack structures  
-- More realistic images than vanilla SPADE or SemanticStyleGAN  
+- Produces more realistic images than vanilla SPADE or SemanticStyleGAN  
 - Highly effective for training crack segmentation models
-<br><br>
+
+<div style="margin-top: 25px;"></div>
+
 ---
-## Files in This Release
+
+<div style="margin-top: 25px;"></div>
+
+## 📁 Files in This Release
 
 | File name | Description |
 |----------|-------------|
 | `latest_net_G.pth` | Pretrained Generator weights |
 | `latest_net_D.pth` | Pretrained Discriminator weights |
 | `loss_log.txt` | Training loss curve logs |
-<br><br>
+
+<div style="margin-top: 25px;"></div>
+
 ---
-## StyleSPADE Generator Architecture
 
-<img width="1421" height="508" alt="그림1" src="https://github.com/user-attachments/assets/dbc4e061-f2c8-4602-864d-04ae63f78351" />
+<div style="margin-top: 25px;"></div>
 
+## 🏗️ StyleSPADE Generator Architecture
 
+<div style="margin-top: 10px;"></div>
+
+<img width="1421" height="508" src="https://github.com/user-attachments/assets/dbc4e061-f2c8-4602-864d-04ae63f78351"/>
+
+<div style="margin-bottom: 40px;"></div>
